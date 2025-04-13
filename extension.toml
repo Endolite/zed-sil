@@ -8,4 +8,4 @@ repository = "https://github.com/Endolite/zed-sil"
 
 [grammars.sil]
 repository = "https://github.com/Endolite/tree-sitter-sil"
-rev = "0d046b4cd6a7f72c5682186c8488963058e94d7c"
+rev = "843f15ed1a273f31226e77959ea5052d09a319fc"
