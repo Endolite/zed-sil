@@ -1,5 +1,5 @@
-id = "sil"
-name = "SIL"
+id = "sil-lang"
+name = "SIL Language Extension"
 version = "0.0.1"
 schema_version = 1
 authors = ["Arnav Patri <arnavpatri1@gmail.com>"]
@@ -9,7 +9,3 @@ repository = "https://github.com/Endolite/zed-sil"
 [grammars.sil]
 repository = "https://github.com/Endolite/tree-sitter-sil"
 rev = "0d046b4cd6a7f72c5682186c8488963058e94d7c"
-
-# [language_servers.smalltalk]
-# name = "AdamNiederer LSP"
-# languages = ["Smalltalk"]
