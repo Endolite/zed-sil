@@ -1,0 +1,3 @@
+[submodule "grammars/sil"]
+	path = grammars/sil
+	url = https://github.com/Endolite/tree-sitter-sil

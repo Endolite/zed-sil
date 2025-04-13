@@ -1,0 +1,12 @@
+name = "SIL"
+grammar = "sil"
+path_suffixes = "sil"
+line_comments = ["% "]
+brackets = [
+  { start = "(", end = ")", close = true, newline = true, not_in = [
+    "comment",
+  ] },
+  { start = "[", end = "]", close = true, newline = true, not_in = [
+    "comment",
+  ] },
+]
